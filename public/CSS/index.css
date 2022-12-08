@@ -1,0 +1,17 @@
+.heading h1{
+    margin-top: 15px;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.imgs{
+    display: flex;
+    justify-content: center;
+}
+
+.imgs img{
+    margin-top: 80px;
+    width: 20%;
+    border-radius: 20px;
+}
