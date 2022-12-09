@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+
+.intro h1{
+    font-size: 50px;
+    font-weight: 800;
+    color: white;
+}
+
+.intro h1:hover{
+    color: aquamarine;
+}
+
+.intro p{
+    margin-top: 30px;
+    font-size: 30px;
+    color: white;
+}
+
+footer{
+    position : fixed;
+    bottom: 3%;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+
+.links a{
+    text-decoration: none;
+    color: white;
+}
+
+.links a:hover{
+    color: bisque;
+}
